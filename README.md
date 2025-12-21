@@ -1,3 +1,4 @@
-# 你好啊！
+# Hello there!
 
-虽然不知道你从哪个项目来到我的主页，但是欢迎！我目前是一名大三在读的计算机专业的学生，目前正努力学习计算机相关知识。计算机的各种名词浩如烟海，各种技术栈的数量远远超出我的想象，我也正在积极探索这一切，努力成为梦想中的极客！
+
+Although I'm not sure which project brought you to my homepage, but welcome! I am currently a junior majoring in Computer Science, diligently studying various computer-related knowledge. The sheer number of computer terminologies is vast, and the array of technology stacks has far exceeded my imagination. I am actively exploring all of this and striving to become the geek of my dreams!
